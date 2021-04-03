@@ -91,3 +91,11 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 <img src="https://lh4.googleusercontent.com/lc_J_mhZ4nEfJpkCV7oXzvmjLl9iM71OzuOCBZSgGAH_VUWMtGNp5oEjYXOsdzdfnnMysBnQk5NDXPTfhB2b9f171V7izfh-PXE8erfPkfIataVIMo2JTumW1XHZo5yIj0aVBzyE" alt="img" style="zoom:80%;" />
 
 - 스마트 미러를 실행하면 음성명령을 통해 촬영, 검색, 캘린더 기능을 수행한다
+
+<br/>
+
+### 실행 영상
+
+https://user-images.githubusercontent.com/48197531/113472663-ad1cf880-949f-11eb-85b7-b8aaa155647b.mp4
+
+
