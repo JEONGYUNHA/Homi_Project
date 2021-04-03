@@ -5,7 +5,7 @@
 *거울의 특성을 살리면서 편리함을 극대화한 스마트 미러*
 
 <img src="https://lh4.googleusercontent.com/NYsAMLwIbbqLxkt9tNcKrf1u7UZJ8mPT2fWRMX7qMIeeKS_En6ht9Yzn2FhwEGDzG7Ed29pbwt0l4DhjT2zCCy2PdZagrHD1N-0tS8q5Zxs8HwarzJl5_OXHgs4K8Y24irKV402h" alt="img" style="zoom:80%;" />
-
+<br/>
 
 
 사람들은 외출 전 여러 번 옷을 갈아 입어보고도 결국 같은 옷을 입고 외출하곤 합니다. 
@@ -20,13 +20,13 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 
 이러한 기능들을 통해 우리는 외출 준비를 할 때 날씨를 찾아보거나 앨범을 찾아보는 등의 번거로운 일을 하지 않아도 됩니다.  
 
-
+<br/>
 
 > Hokay Mirror (Home Okay Mirror)
 >
 > Home + Okay Google + Mirror
 
-
+<br/><br/>
 
 ### 주요 기능
 
@@ -39,7 +39,7 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
   - ex) 비 오는 날 입은 옷 보여줘
 - **캘린더 기능(부가 정보 입력)**
   - 결혼식 간 날 복장
-
+<br/><br/><br/>
 
 
 ### 기대 효과
@@ -50,6 +50,8 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 |  옷을 여러 번 갈아입어야 한다   | 기온, 날씨 등에 따라 검색이 가능하여 <br />복장 선택에 용이하다 |
 |    날씨를 따로 찾아봐야 한다    |      날씨를 따로 찾아볼 필요 없이 바로 확인이 가능하다       |
 
+<br/><br/>
+
 **기존 스마트미러와 차별화된 기능**
 
 - 날짜, 날씨, 기온 별로 사진 검색이 가능하다
@@ -57,7 +59,7 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 - 구글 캘린더 연동
   - 메모와 함께 복장을 확인할 수 있다
 
-
+<br/><br/>
 
 **상업적인 활용**
 
@@ -65,7 +67,7 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 - 안경점
 - 의류 매장
 
-
+<br/><br/>
 
 
 
@@ -81,7 +83,7 @@ Hokay Mirror는 기존에 있던 스마트 미러에 카메라를 설치하여 �
 - Google Assistant, Google Speech API(STT), Responsive Voice API (TTS)
 
 
-
+<br/><br/>
 
 
 ### 사용 시나리오
